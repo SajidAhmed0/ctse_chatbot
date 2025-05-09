@@ -6,3 +6,4 @@ pinecone
 python-dotenv 
 pypdf 
 tqdm
+ipykernel
