@@ -3,7 +3,11 @@ langchain-community
 langchain-groq
 langchain-openai
 pinecone
-python-dotenv 
-pypdf 
+python-dotenv
 tqdm
 ipykernel
+langchain-pinecone
+python-pptx 
+PyPDF2 
+openai
+tiktoken
