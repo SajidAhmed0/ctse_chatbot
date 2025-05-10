@@ -1,2 +1,6 @@
 .venv/
 .env
+
+ctse_lecture_slides/
+ctse_extracted_txt_files/
+ctse_merged_module_texts/
